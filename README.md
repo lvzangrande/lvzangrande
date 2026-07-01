@@ -11,7 +11,7 @@ Construindo projetos, aprendendo continuamente e documentando minha evolução c
 
 ---
 
-## 👨‍💻 Sobre mim
+<h2 align='center'> 👨‍💻 Sobre mim </h1>
 
 *  Técnico em Análise e Desenvolvimento de Sistemas - SENAI
 *  Atualmente estudando Desenvolvimento Web
@@ -19,7 +19,7 @@ Construindo projetos, aprendendo continuamente e documentando minha evolução c
 
 ---
 
-## 🛠️ Tecnologias
+<h2 align='center'> ## 🛠️ Tecnologias </h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
@@ -27,13 +27,13 @@ Construindo projetos, aprendendo continuamente e documentando minha evolução c
 
 ---
 
-## 📂 Projetos em destaque
+<h2 align='center'>## 📂 Projetos em destaque</h2>
 
 *<a href='https://github.com/lvzangrande/sync'> **Sync** </a> - Plataforma desenvolvida para conectar indústrias a profissionais especializados em manutenção industrial.
 
 ---
 
-## 📫 Contato
+<h2 align='center'>## 📫 Contato</h2>
 
 <p align="center">
 
