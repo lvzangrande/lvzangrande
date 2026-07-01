@@ -29,7 +29,7 @@ Construindo projetos, aprendendo continuamente e documentando minha evolução c
 
 ## 📂 Projetos em destaque
 
-* **Sync** - Plataforma desenvolvida para conectar indústrias a profissionais especializados em manutenção industrial.
+*<a href='https://github.com/lvzangrande/sync'> **Sync** </a> - Plataforma desenvolvida para conectar indústrias a profissionais especializados em manutenção industrial.
 
 ---
 
