@@ -22,7 +22,7 @@ Construindo projetos, aprendendo continuamente e documentando minha evolução c
 <h2 align='center'>🛠️ Tecnologias </h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,git,github,vscode" />
 </p>
 
 ---
